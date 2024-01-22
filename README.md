@@ -48,9 +48,7 @@
 - [Ninite](https://ninite.com/7zip-chrome-correttojdk8-correttojdkx11-correttojdkx17-correttojdkx21-correttojdkx8-discord-everything-gimp-putty-python3-spotify-steam-vlc-vscode-windirstat/ninite.exe) (inculdes, 7z, chrome, java, discord, everything, gimp, putty, python, spotify, steam, vcl, vs code, and windirstat)
   
 - [Git For Windows](https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe)
-  
 
----
 
 ## Etc...
 
