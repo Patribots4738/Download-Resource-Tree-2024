@@ -56,5 +56,6 @@
 
 - [Tracking Notes with Vision (Demo, Model, Tools) - Technical Discussion - Chief Delphi](https://www.chiefdelphi.com/t/tracking-notes-with-vision-demo-model-tools/449479)
 - https://github.com/Patribots4738/Crescendo2024 (OUR REPO!!!)
+- https://docs.limelightvision.io/docs/docs-limelight/getting-started/summary
 
 ---
