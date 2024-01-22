@@ -1,7 +1,5 @@
 # Download-Resource-Tree-2024
 
-@Programming Here is a list of all links that you should download.
-
 ## Pathing Programs
 
 ### Choreo
