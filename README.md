@@ -28,7 +28,7 @@
   
 - [Programming your Radio &mdash; FIRST Robotics Competition documentation](<https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/radio-programming.html#prerequisites>)
   
-- [Release WPILib 2024.1.1 Release · wpilibsuite/allwpilib · GitHub](<https://github.com/wpilibsuite/allwpilib/releases/tag/v2024.1.1>)
+- [WPILib GitHub](<https://github.com/wpilibsuite/allwpilib>) & [Release WPILib 2024.3.1 Release · wpilibsuite/allwpilib · GitHub](<https://github.com/wpilibsuite/allwpilib/releases>)
   
 - [Installing Phoenix 6 (FRC)](<https://v6.docs.ctr-electronics.com/en/latest/docs/installation/installation-frc.html>)
   
